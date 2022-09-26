@@ -11,14 +11,6 @@
 	</a>	
 </p>
 
-## :sassy_man: About me
-
-- :technologist: I love using Software as a solution for every `Problem`
-- :student: I’m currently learning: `Flutter` and `React Js`.
-- :nerd_face: Always `learning new things`
-
-<br>
-
 ## 🔥 Streak Stats
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeWithKamal&theme=algolia" alt="CodeWithKamal" /></p>
