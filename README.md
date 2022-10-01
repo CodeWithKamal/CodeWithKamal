@@ -49,3 +49,5 @@
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/CodeWithKamal"><img src="https://github-profile-trophy.vercel.app/?username=CodeWithKamal&layout=compact&theme=algolia" alt="CodeWithKamal" /></a> </p>
+
+[![@codewithkamal's Holopin board](https://holopin.io/api/user/board?user=codewithkamal)](https://holopin.io/@codewithkamal)
