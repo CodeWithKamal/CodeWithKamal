@@ -28,23 +28,23 @@
 </p>
 
 
-## 📊 Github Stats
+<!-- ## 📊 Github Stats -->
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+<!--   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="CodeWithKamal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CodeWithKamal&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   </p>
 
----
+--- -->
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+<!--   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/CodeWithKamal"><img alt="CodeWithKamal's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CodeWithKamal&custom_title=CodeWithKamal's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+  <br/> -->
 
-<br/>
+<!-- <br/> -->
 
 ## :trophy: Git profile Trophies
 
